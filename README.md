@@ -1,2 +1,2 @@
 # TipCalculator
-Simple tip calculator web app built with vanilla JavaScript.
+A simple tip calculator web app built with vanilla JavaScript, HTML5, and CSS Bootstrap.
